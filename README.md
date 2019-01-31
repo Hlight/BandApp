@@ -1,2 +1,3 @@
 # BandApp
-Example repo for git stuff.
+
+* Adding maps api to show users locations of their favorite artists.
